@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(183, 170, 255, 0.411);
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+input[type="color"] {
+    width: 300px;
+    height: 60px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-color: rgb(19, 22, 19);
+    border: 1px solid green;
+    border-radius: 24px;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    box-shadow: 4px 5px 8px burlywood;
+}
+
+.makechanges {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.push {
+    margin-top: 72px;
+    text-align: center;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: none;
+    padding: 10px;
+    margin-left: 40%;
+}
